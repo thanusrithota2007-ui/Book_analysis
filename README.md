@@ -81,13 +81,13 @@ Key visualizations generated in this project include:
 Key visualizations generated in this project include:
 
 ### Rating Distribution
-![Rating Distribution](image/rating_distribution.png)
+![Rating Distribution](Image/rating_distribution.png)
 
 ### Price Distribution
-![Price Distribution](image/price_distribution.png)
+![Price Distribution](Image/price_distribution.png)
 
 ### Rating vs Reviews
-![Rating vs Reviews](image/rating_vs_reviews.png)
+![Rating vs Reviews](Image/rating_vs_reviews.png)
 
 ---
 
